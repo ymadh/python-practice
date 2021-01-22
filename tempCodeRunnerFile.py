@@ -1,0 +1,1 @@
+    fizz = input / 3
